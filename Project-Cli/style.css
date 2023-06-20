@@ -4,6 +4,23 @@ body {
     padding: 0px 10px 0px 10px;
 }
 
+.digitar {
+  margin: 20px 0px 20px 30px;
+}
+
+.botao-confirm {
+  margin: 0px 0px 0px 30px;
+}
+
+form {
+  color: rgb(248, 246, 246);
+  margin-left: 25px;
+  margin-top: 25px;
+  font-size: 35px;
+  text-shadow: 2px 2px rgb(110, 8, 136); 
+  font-family: 'Russo One', sans-serif; 
+}
+
 .bg-dark {
   background: linear-gradient(-45deg, #45034d 0%, #40c9ff 100% );
 }
